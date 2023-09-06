@@ -686,7 +686,7 @@ campaignTrail_temp.answers_json = [
         "pk": 80007,
         "fields": {
             "question": 639,
-            "description": "I would like to call on both parties, Democrat and Whig, that if re-elected I will take the fight against slavery in Washington, I support a ban on slavery in the District of Columbia."
+            "description": "I will take the fight against slavery to Washington. I support a ban on slavery in the District of Columbia."
         }
     },
     {
